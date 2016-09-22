@@ -16,5 +16,5 @@ Nama : Louisa Gabriella <br>
 Kelas : XI RPL 5 <br>
 No Urut : 16 <br>
 NIS : 4047 <br>
-Nama Sekola : SMK Telkom Malang <br>
+Nama Sekolah : SMK Telkom Malang <br>
  
